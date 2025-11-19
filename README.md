@@ -151,8 +151,8 @@ This module also includes a potentiometer that will fix the threshold value, & t
 
 ##  Program 
 ```
-Name: GOGINENI BIDHISHA
-Reg No:212223040048
+Name: MARELLA HASINI
+Reg No:212223240083
 ```
 ```
 
